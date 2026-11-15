@@ -2,6 +2,8 @@
 
 - データ: Ahrefs Keywords Explorer（日本、月間推定ボリューム）、取得日 2026-11-15
 - 期間: 2023/11〜2026/10（Y1=23/11–24/10, Y2=24/11–25/10, Y3=25/11–26/10）
+- スプレッドシート: https://docs.google.com/spreadsheets/d/1e3TFZCil1JfNcbFQbwYNBuYk8PP5f6CJVGFh2x8O7NI/edit
+- ダッシュボード: https://claude.ai/artifact/SXBmRedQz5rGoxkEphWnU7
 - 明細: `kw_volume_monthly_2023-11_2026-10.csv`（月次）、`kw_volume_summary.csv`（年次・増減率・ピーク）
 - 注意: Ahrefsの月次値は推定値。低ボリューム語は直近2〜3か月が急落・同値継続（例: 「退職給付金 怪しい」57固定）になる傾向があり、直近月の単月判断は不可。年次合計で比較し、Googleキーワードプランナー／Trendsで要クロスチェック。
 
